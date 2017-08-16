@@ -56,7 +56,7 @@
 		</style>
 	</head>
 	<body>
-	
+	<a href="index.php"> inicio </a>
 	<body background="fondo.jpg">
 		<div id="header">
 			<ul class="nav">
